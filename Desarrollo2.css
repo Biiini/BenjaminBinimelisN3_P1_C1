@@ -1,0 +1,29 @@
+.Margen{
+    background-color:yellow;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    height: auto;
+    width: auto;
+    border: auto;
+}
+
+#h1{
+    margin: 20px,20px;
+    text-align: center;
+}
+
+/*
+#Miel_de Tilo{
+    height: 700px;
+    width: 600px;
+    background-image: url(Miel_de_Tilo.jpg);
+    background-size: cover;
+}
+
+/*
+#ig{
+    height: 700px;
+    width: 600px;
+    background-image: url(miel_de_salvia.jpg);
+    background-size: cover;
+}

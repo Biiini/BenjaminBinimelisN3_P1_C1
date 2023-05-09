@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La tienda de las Mieles</title>
+    <link rel="stylesheet" href="Desarrollo2.css"></link> 
+</head>
+<body>
+    <div class="Margen">Tienda de distintos tipos de Mieles</div>
+    <p>Siempre y cuando no tenga ningún añadido, la miel es un producto completamente natural, elaborado por las abejas a partir del néctar que recolectan en las flores.
+        <p>Aunque su contenido en azúcares también es alto: cerca de 80%. Dichos azúcares varían según el tipo.</p>
+        <p>Es por eso que te traemos disintos tipos para que puedas comprar</p>
+    </p>
+    <ul>
+        <li>Miel de Tilo</li>
+            <p>La miel de tilo es de color claro, casi transparente, y su sabor es bastante dulce.</p>
+                <p>Algunos de los beneficios que tiene para la salud son los siguientes:</p>
+                    <ul>
+                        <li>Se utiliza para tratar los síntomas de los resfriados y gripes. Algunos compuestos como el propóleo son de utilidad para mejorar el funcionamiento del sistema inmune.</li>
+                        <li>En los casos de gripe tiene la capacidad de aumentar la sudoración si se toma caliente y mezclada con limón.</li>
+                    </ul>
+                <img src="Miel_de_Tilo.jpg", height="300px", width="480px"></img>
+        </ul>
+        <div id="Miel_de_Tilo"></div>
+    <br>
+    <ul>
+        <li>Miel de salvia</li>
+            <p>La miel de salvia suele ser amarilla con algún matiz verde. Los beneficios que reporta para nuestra salud son muy importantes.</p>
+            <ul>
+                <li>Ayuda a tratar problemas respiratorios.</li>
+                <li>Sirve para reforzar el sistema inmune.</li>
+            </ul>
+            <img src="miel_de_salvia.jpg", height="300px", width="480px"></img>
+    </ul>
+    <br>
+    <ul>
+        <li>Miel vara de oro</li>
+        <p> Su color amarillo dorado u oscuro y su aroma excepcional hacen de este otro de los tipos de miel un indispensable en el hogar.</p>
+        <ul>
+            <li>Permite reducir el estrés y la ansiedad, entre otros trastornos nerviosos.</li>
+        </ul>
+        <img src="Miel_vara_oro.png", height="300px", width="480px"></img>
+    <br>
+    <br>
+    <br>
+    <table align="center">
+        <tr>
+            <th>Producto</th>
+            <th>Precio</th>
+        </tr>
+        <tr>
+            <th>Miel de Tilo</th>
+            <th>14990</th>
+        </tr>
+        <tr>
+            <th>Miel de Salvia</th>
+            <th>14990</th>
+        </tr>
+        <tr>
+            <th>Miel Vara de Oro</th>
+            <th>15990</th>
+        </tr>
+    </table>
+    <br>
+    <footer>
+        <p>Derechos reservados, La Tienda de las Mieles</p>
+        <p>Contacto: +56911223344</p>
+    </footer>
+</body>
+</html>
